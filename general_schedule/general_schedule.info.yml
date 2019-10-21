@@ -1,0 +1,13 @@
+# Package info
+name: General Schedule
+type: module
+description: 'Custom Field for General Schedule Levels and Steps'
+package: Field types
+version: '8.x-1.0'
+core: '8.x'
+project: 'general_schedule'
+datestamp: 10/20/2019
+
+# Dependencies
+dependences:
+  - field
